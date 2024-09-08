@@ -37,7 +37,7 @@ You can install the package via Composer:
 
 ```bash
 
-composer require openpesa/laravel-pesa
+composer require molefigog/laravel-pesa
 
 ```
 
