@@ -35,8 +35,8 @@
     "repositories": [
     {
         "type": "vcs",
-        "url": "https://github.com/molefigog/pesa"
-    }
+        "url": "https://github.com/molefigog/php-pesa"
+    } 
 ],
     "require-dev": {
         "nunomaduro/collision": "^6.0",
