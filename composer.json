@@ -7,7 +7,7 @@
         "laravel",
         "laravel-pesa"
     ],
-    "homepage": "https://github.com/openpesa/laravel-pesa",
+    "homepage": "https://github.com/molefigog/laravel-pesa",
     "type": "library",
     "support": {
         "issues": "https://github.com/openpesa/laravel-pesa/issues",
