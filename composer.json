@@ -35,7 +35,7 @@
     "repositories": [
     {
         "type": "vcs",
-        "url": "https://github.com/molefigog/php-pesa"
+        "url": "https://github.com/molefigog/laravel-pesa"
     } 
 ],
     "require-dev": {
